@@ -1,0 +1,18 @@
+{
+    "project_name": "autoload_generator",
+    "description": "autoload automatic generator",
+    "folders":
+    [
+        "classes",
+        "conf",
+        "dao",
+        "pdo"
+    ],
+    "pdo": {
+        "host": "localhost",
+        "driver": "mysql",
+        "user": "root",
+        "name": "generator",
+        "password": ""
+    }
+}
